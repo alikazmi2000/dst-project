@@ -32,7 +32,7 @@ def write_flights_to_sqlite(flights):
 
 
 default_args = {
-    'owner': 'Your Name',
+    'owner': 'Ali Kazmi & Bicky Raj',
     'start_date': datetime(2022, 12, 1),
     'catchup': False
 }
